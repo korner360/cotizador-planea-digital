@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diseño de Logotipo",
+        "precio": 2500,
+        "categoria": "Branding",
+        "imagen": "https://via.placeholder.com/150?text=Logo"
+    },
+    {
+        "id": 2,
+        "nombre": "Landing Page Divi",
+        "precio": 6500,
+        "categoria": "Web",
+        "imagen": "https://via.placeholder.com/150?text=Web"
+    },
+    {
+        "id": 3,
+        "nombre": "E-commerce Completo",
+        "precio": 18000,
+        "categoria": "Web",
+        "imagen": "https://via.placeholder.com/150?text=Ecommerce"
+    },
+    {
+        "id": 4,
+        "nombre": "Gestión Blog",
+        "precio": 3500,
+        "categoria": "Marketing",
+        "imagen": "https://via.placeholder.com/150?text=RRSS"
+    }
+]
